@@ -16,7 +16,12 @@ git config --global user.name "voidgogo"
 git commit -m "version 0.1"
 스냅샷(커밋 확정)을 찍는다
 
+git log
+커밋 리스트 확인, 해시코드
 
+git checkout 해시코드
+해시코드는 7자리만 입력해도 됨
+해당 커밋으로 이동
 
 
 README.md
