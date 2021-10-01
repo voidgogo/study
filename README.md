@@ -23,14 +23,13 @@ git checkout 해시코드
 해시코드는 7자리만 입력해도 됨
 해당 커밋으로 이동
 
+git clone 주소 .
+원격지 주소의 파일, 폴더를 현재 폴더로 다운로드
 
-README.md
 
 버전 관리
-
 -중앙형
 SVN
-
 -분산형
 Git/GitHub
 
